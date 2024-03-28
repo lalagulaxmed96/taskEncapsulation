@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\taskEncapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|c:\\users\\user\\desktop\\taskencapsulation\\taskencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|solutionrelative:taskencapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|c:\\users\\user\\desktop\\taskencapsulation\\taskencapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|solutionrelative:taskencapsulation\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|c:\\users\\user\\desktop\\taskencapsulation\\taskencapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|solutionrelative:taskencapsulation\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|c:\\users\\user\\desktop\\taskencapsulation\\taskencapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5369E2BC-E67D-4B4D-B96A-1CF2A60709F8}|taskEncapsulation\\taskEncapsulation.csproj|solutionrelative:taskencapsulation\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Product.cs",
+              "RelativeDocumentMoniker": "taskEncapsulation\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Product.cs",
+              "RelativeToolTip": "taskEncapsulation\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:52:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Book.cs",
+              "RelativeDocumentMoniker": "taskEncapsulation\\Book.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Book.cs",
+              "RelativeToolTip": "taskEncapsulation\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:52:18.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Library.cs",
+              "RelativeDocumentMoniker": "taskEncapsulation\\Library.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Library.cs",
+              "RelativeToolTip": "taskEncapsulation\\Library.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:52:06.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "taskEncapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\taskEncapsulation\\taskEncapsulation\\Program.cs",
+              "RelativeToolTip": "taskEncapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:50:12.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

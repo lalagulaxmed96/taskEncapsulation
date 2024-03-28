@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\taskEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\taskEncapsulation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\taskEncapsulation.AssemblyInfo.cs
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\taskEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\bin\Debug\net6.0\taskEncapsulation.exe
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\bin\Debug\net6.0\taskEncapsulation.deps.json
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\bin\Debug\net6.0\taskEncapsulation.runtimeconfig.json
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\bin\Debug\net6.0\taskEncapsulation.dll
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\bin\Debug\net6.0\taskEncapsulation.pdb
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\taskEncapsulation.dll
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\refint\taskEncapsulation.dll
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\taskEncapsulation.pdb
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\taskEncapsulation.genruntimeconfig.cache
+C:\Users\User\Desktop\taskEncapsulation\taskEncapsulation\obj\Debug\net6.0\ref\taskEncapsulation.dll
